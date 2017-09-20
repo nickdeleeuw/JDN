@@ -14,3 +14,8 @@
 | :---                      | :---                                   |
 | Mount usb device        | `mount –t msdos /dev/da1s1 /mnt` |
 | Unmount usb device   | `umount /mnt`       |
+
+## Firmware
+| Task                      | Command                                |
+| :---                      | :---                                   |
+| Upgrade to certain software package.         | `request system software add /<location>/<name of junos package> reboot` |
