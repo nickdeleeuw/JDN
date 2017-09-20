@@ -1,5 +1,6 @@
 # Juniper
 
+## Basics
 | Task                      | Command                                |
 | :---                      | :---                                   |
 | Reboot the system         | `request system reboot` |
