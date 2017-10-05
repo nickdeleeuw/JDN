@@ -19,3 +19,9 @@
 | Task                      | Command                                |
 | :---                      | :---                                   |
 | Upgrade to certain software package.         | `request system software add /<location>/<name of junos package> reboot` |
+
+## User
+| Task                      | Command                                |
+| :---                      | :---                                   |
+| Change user password       | `edit system login user "username"` |
+|       | `set authentication plain-text-password ` |
