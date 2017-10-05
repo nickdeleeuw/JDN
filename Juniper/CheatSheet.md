@@ -25,3 +25,9 @@
 | :---                      | :---                                   |
 | Change user password       | `edit system login user "username"` |
 |       | `set authentication plain-text-password ` |
+
+## Case Small Setup
+| Task                      | Command                                |
+| :---                      | :---                                   |
+| Set RSTP mode PTP on WAN port       | `set protocols interface ge0/0/8 mode point-to-point` |
+
